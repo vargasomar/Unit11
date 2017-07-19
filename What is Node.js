@@ -1,0 +1,3 @@
+Node.js is a server-side platform built on Google Chrome’s JavaScript Engine (v8 Engine). It is a platform on Chrome’s JavaScript runtime for easily building fast and scalable network applications. Node.js applications are written in JavaScript. 
+
+Node.js is perfect for data-intensive real-time applications due to its event-driven, non blocking I/O model that makes is lightweight and efficient. Node.js also provide a rich library of various JavaScript modules, simplifying the development of web applications using Node.js to a great extent. Node.js can be run within the Node.js runtime on OS X, Windows, and Linux. 
